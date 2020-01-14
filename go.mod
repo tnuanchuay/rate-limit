@@ -1,4 +1,4 @@
-module rate_limit
+module github.com/tspn/rate-limit
 
 go 1.13
 
