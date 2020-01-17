@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"rate_limit"
+
+	"github.com/tspn/rate-limit"
 )
 
 func main() {
